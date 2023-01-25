@@ -44,10 +44,12 @@ print(x)
 
 ## Output:
 ### 1-lu decomposition
-![output1](lu1.png)
+
+![lu 1 decomposition rajesh](https://user-images.githubusercontent.com/118924713/214552946-684386a2-78da-4bd1-8641-a64990d0d580.png)
 
 ### 2-lu decomposition
-![output1](lu2.png)
+
+![lu2 decomposition rajesh](https://user-images.githubusercontent.com/118924713/214552994-a43a23a1-8a53-4f73-9815-71845ca58d15.png)
 
 ## Result:
 Thus the program to find the LU Decomposition of a matrix is written and verified using python programming.
